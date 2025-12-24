@@ -35,3 +35,4 @@ Output format:
         )
 
         return json.loads(response.output_text)
+
